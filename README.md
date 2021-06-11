@@ -8,6 +8,8 @@ Projetos criados para controlador de Slider feito com HTML, CSSe e JavaScript. S
 
 Nesse primeiro projeto os slides tem tags internas no HTML para algumas configurações especificas
 
+![](https://github.com/CristianoDaSilvaFerreira/slider/blob/main/sulf.gif)
+
 ## Projeto 2
 
 ![Naturez](https://user-images.githubusercontent.com/68359459/121612421-c35fab80-ca30-11eb-8ca1-c5bd20651a67.png)
