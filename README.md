@@ -16,5 +16,5 @@ Nesse primeiro projeto os slides tem tags internas no HTML para algumas configur
 
 Nesse projeto, todos os controles e funções assim como estilis ficam por conta do CSS e JavaScript
 
-![](https://github.com/CristianoDaSilvaFerreira/slider/blob/main/sulf.gif)
+![](https://github.com/CristianoDaSilvaFerreira/slider/blob/main/nature.gif)
 
